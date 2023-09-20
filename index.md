@@ -7,3 +7,6 @@
   const expenses = [12.64, 132.99, 12, 5, 99.99];
   const sum = expenses.reduce((acc, next) => acc + next, 0);
 ```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
